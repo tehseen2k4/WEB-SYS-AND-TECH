@@ -1,0 +1,98 @@
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.AssemblyInfo.cs
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.RazorAssemblyInfo.cache
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.RazorAssemblyInfo.cs
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.sourcelink.json
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\bin\Debug\net9.0\appsettings.json
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\bin\Debug\net9.0\Lab 9.staticwebassets.runtime.json
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\bin\Debug\net9.0\Lab 9.staticwebassets.endpoints.json
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\bin\Debug\net9.0\Lab 9.exe
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\bin\Debug\net9.0\Lab 9.deps.json
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\bin\Debug\net9.0\Lab 9.runtimeconfig.json
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\bin\Debug\net9.0\Lab 9.dll
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\bin\Debug\net9.0\Lab 9.pdb
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\scopedcss\bundle\Lab 9.styles.css
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\scopedcss\projectbundle\Lab 9.bundle.scp.css
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\8hopjmuaoi-61n19gt1b8.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\4knonyhpyy-bqjiyaj88i.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\78tdansrki-c2jlpeoesf.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\rch06zq6b1-erw9l3u2r3.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\78ls6kcj97-aexeepp0ev.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\mqawm1t6tk-d7shbmvgxk.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\a8wx1pt4qd-ausgxo2sd3.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\0e5h5c19ze-k8d9w2qqmf.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\qrm93g6mai-cosvhxvwiu.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\cgtsbglypn-ub07r2b239.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\oa799aoilm-fvhpjtyr6v.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\6wb6li02p9-b7pk76d08c.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\ubyx1bx22a-fsbi9cje9m.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\c4mtibf49v-rzd6atqjts.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\pbr68nl0dl-ee0r1s7dh0.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\4hde6wjbcd-dxx9fxp4il.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\saqplmymh4-jd9uben2k1.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\u3ebmxlsvi-khv3u5hwcm.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\fub6j4l2f0-r4e9w2rdcm.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\829tl7x75k-lcd1t2u6c8.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\9c36v2u51n-c2oey78nd0.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\vtar5rng1l-tdbxkamptv.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\m3o41ei6a3-j5mq2jizvt.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\l1pixx5gdu-06098lyss8.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\l3jy5hit60-nvvlpmu67g.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\43gkm96phu-s35ty4nyc5.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\y289opj7s5-pj5nd1wqec.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\8fngzb87u4-46ein0sx1k.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\ewhxwuqcnk-v0zj4ognzu.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\7hlrtnvide-37tfw0ft22.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\jb6je1u2d6-hrwsygsryq.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\xhoaqequc2-pk9g2wxc8p.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\g9ey1vuhrd-ft3s53vfgj.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\7psu1x3d8t-6cfz1n2cew.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\hk7ruh46ad-6pdc2jztkx.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\vallsmb78j-493y06b0oq.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\smr8heojw7-iovd86k7lj.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\v1tu8g1x63-vr1egmr9el.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\51wnp97t0n-kbrnm935zg.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\qn5ksvqf0g-jj8uyg4cgr.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\2t92fdx3yq-y7v9cxd14o.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\npaeeku1hp-notf2xhcfb.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\hyktc7mgrn-h1s4sie4z3.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\3ufdi24ysv-63fj8s7r0e.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\50f8o7p1lc-0j3bgjxly4.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\6rfl8875xa-47otxtyo56.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\oo2hbtu354-4v8eqarkd7.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\pym495udo6-356vix0kms.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\5juz2kgssv-83jwlth58m.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\i62poueblh-mrlpezrjn3.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\9qrgqg18xv-lzl9nlhx6b.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\v8ftwwgsu7-ag7o75518u.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\zsv3drbwzu-x0q3zqp4vz.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\52wdlpewhu-0i3buxo5is.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\8hltz415jq-o1o13a6vjx.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\bmhdr5opmd-ttgo8qnofa.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\sxepj00u8w-2z0ns9nrw6.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\qziq46g8m8-muycvpuwrr.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\apkpfhch85-87fc7y1x7t.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\27dxqdtefs-mlv21k5csn.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\j4y8djnllg-d1eyh5v3qq.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\wm622g247p-d1eyh5v3qq.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\staticwebassets\msbuild.Lab 9.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\staticwebassets\msbuild.Lab 9.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\staticwebassets\msbuild.build.Lab 9.props
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Lab 9.props
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Lab 9.props
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.dll
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\refint\Lab 9.dll
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.pdb
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.genruntimeconfig.cache
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\ref\Lab 9.dll
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\aw96h88aqb-twoeqru68o.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\3ef6g75q2q-kqzr4laz3a.gz
