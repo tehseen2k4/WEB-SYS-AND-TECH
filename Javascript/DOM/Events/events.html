@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>JavaScript Event Types Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .box {
+            padding: 20px;
+            margin: 10px 0;
+            border: 2px solid #333;
+            cursor: pointer;
+        }
+        #output {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #888;
+            min-height: 80px;
+            white-space: pre-wrap;
+            background: #f0f0f0;
+        }
+        input, textarea {
+            margin: 5px 0;
+            display: block;
+            width: 100%;
+            max-width: 300px;
+            padding: 8px;
+            font-size: 1rem;
+        }
+        button {
+            margin-top: 10px;
+            padding: 10px 15px;
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>JavaScript Events Demo</h1>
+
+    <div id="clickBox" class="box">
+        Click or Double Click Me
+    </div>
+
+    <div id="mouseBox" class="box">
+        Hover Over Me (mouseenter & mouseleave)
+    </div>
+
+    <input id="textInput" type="text" placeholder="Type here (input & change)" />
+    <textarea id="textArea" placeholder="Focus and blur me"></textarea>
+
+    <form id="myForm">
+        <input type="text" id="nameInput" placeholder="Name" required />
+        <input type="email" id="emailInput" placeholder="Email" required />
+        <button type="submit">Submit Form</button>
+    </form>
+
+    <h3>Output:</h3>
+    <pre id="output"></pre>
+
+    <script src="script.js"></script>
+</body>
+</html>

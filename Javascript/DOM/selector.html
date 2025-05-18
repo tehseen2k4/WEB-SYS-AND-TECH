@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Selectors</title>
+</head>
+<body>
+    <h1 id="heading">Original Heading</h1>
+    <p class="desc">This is a paragraph</p>
+    <button onclick="changeText()">Change Text</button>
+
+    <script>
+        function changeText(){
+            const heading = document.getElementById('heading');
+            heading.textContent = "Updated Heading";
+            heading.style.color = "blue";
+            heading.style.fontSize = "2em";
+            heading.style.fontWeight = "bold";
+
+            const para= document.querySelector('.desc');
+            para.textContent = "This is an updated paragraph";
+            para.style.color = "green";
+            para.style.fontSize = "1.5em";
+            para.style.fontWeight = "normal";
+        }
+    </script>
+    
+</body>
+</html>
