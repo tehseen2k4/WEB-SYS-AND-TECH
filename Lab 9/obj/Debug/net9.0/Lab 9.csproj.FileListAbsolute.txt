@@ -94,5 +94,5 @@ C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\refint\Lab 9.dll
 C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.pdb
 C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\Lab 9.genruntimeconfig.cache
 C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\ref\Lab 9.dll
-C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\aw96h88aqb-twoeqru68o.gz
 C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\3ef6g75q2q-kqzr4laz3a.gz
+C:\Users\USER\Desktop\WEB SYS AND TECH\Lab 9\obj\Debug\net9.0\compressed\aw96h88aqb-x8y64lvnkh.gz

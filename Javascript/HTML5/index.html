@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <header> is a semantic tag used for top-level intro content or branding -->
+    <header>
+        <h1>Welcome To HTML5</h1>
+        <p>This page demostrates the core HTML5 elements</p>
+    </header>
+    <!-- <nav> is used for grouping navigation links -->
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#table">Table</a></li>
+            <li><a href="#form">Form</a></li>
+
+            <!-- <a href="#id"> jumps to the element with the matching id -->
+        </ul>
+    </nav>
+
+    <!-- ================= Section: About HTML5 ================= -->
+     <section id="about">
+        <!-- <section> represents a standalone section of content -->
+            <h2>About HTML</h2>
+            <p>HTML5 itroduces semantic elements and better structure for Web content</p>
+            <p>It also includes new form elements, APIs, and attributes</p>
+
+            <!-- Displays an image with alternative text if image fails to load -->
+            <img src="one.jpg" alt="Sample Image" width="300" height="200">
+            <img src="two.jpg" alt="Sample Image 2" width="300" height="200">    
+     </section>
+
+
+      <!-- ================= Article Section ================= -->
+       <article>
+        <!-- <article> is for self-contained content like blog posts or news articles -->
+        <h3>HTML5 Features</h3>
+        <ul>
+            <li>Semantic tags like <code>&lt;section&gt;</code>, <code>&lt;article&gt;</code></li>
+      <!-- <code> shows code in monospace formatting -->
+      <li>Form enhancements</li>
+      <li>Multimedia support</li> 
+        </ul>
+       </article>
+
+        <!-- ================= Table Section ================= -->
+         <section id="table">
+            <h2>HTML Table</h2>
+            <table border="1" cellpadding="8">
+            <!-- Basic table with border and padding -->
+             <thead>
+             <!-- Table head row -->
+              <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Profession</th>
+              </tr>
+             </thead>
+             
+             <tbody>
+                <tr>
+                    <td>Alice</td>
+                    <td>30</td>
+                    <td>Engineer</td>
+                </tr>
+                <tr>
+                    <td>Bob</td>
+                    <td>25</td>
+                    <td>Designer</td>
+                </tr>
+                <tr>
+                    <td>Charlie</td>
+                    <td>35</td>
+                    <td>Teacher</td>
+                </tr>
+             </tbody>
+            </table>
+         </section>
+
+          <!-- ================= Form Section ================= -->
+           <section id="form">
+            <h2>Contact Form</h2>
+            <!-- <form> wraps input fields and submit button -->
+                <form >
+                    <!-- 'required' makes the input mandatory -->
+                     <label>Name: <input type="text" required></label><br><br>
+                     <label>Email: <input type="email" required></label><br><br>
+                     <label>Message: <br>
+                        <textarea rows="4" cols="50" required></textarea>
+                     </label><br><br>
+
+                     <input type="submit" value="Send">
+                     <!-- Submit button -->
+                </form>
+           </section>
+
+            <!-- ================= Footer Section ================= -->
+  <footer>
+    <!-- <footer> is used at the bottom for copyright or links -->
+    <p>&copy; 2025 Your Name. All rights reserved.</p>
+    <!-- &copy; is the copyright symbol -->
+  </footer>
+</body>
+</html>
