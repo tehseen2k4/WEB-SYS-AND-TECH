@@ -2,9 +2,9 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form Validation</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Form Validation</title>
     <style>
         body {
             background-color: #f0f0f0;
@@ -15,15 +15,16 @@
 
         h1 {
             text-align: center;
-            margin-top: 20px;
+            margin-bottom: 30px;
         }
 
         .formdesign {
-            width: 300px;
-            margin: 0 auto;
+            width: 400px;
+            margin: 10px auto;
             padding: 10px;
             border-radius: 5px;
             box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+
         }
 
         input[type="text"],
@@ -49,51 +50,114 @@
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            align: center;
             width: 100%;
+            margin-top: 10px;
+        }
+
+        .form-title {
+            text-align: center;
+            color: #333;
+            margin-bottom: 10px;
         }
     </style>
 </head>
 
 <body>
-    <h1>Javascript Form Validation</h1>
-    <form action="">
-        <div class="formdesign" id="name">
-            Name: <input type="text" id="name" placeholder="Enter your name" required>
+
+    <h1>JavaScript Form Validation</h1>
+    <form name="myForm" onsubmit="return validateForm()">
+        <div class="formdesign" id="nameDiv">
+            <label>Name:</label>
+            <input type="text" id="name" placeholder="Enter your name" required />
             <span class="formerror">*Error</span>
         </div>
-        <br><br>
-        <div class="formdesign" id="email">
-            Email: <input type="email" id="email" placeholder="Enter your email" required>
+
+        <div class="formdesign" id="emailDiv">
+            <label>Email:</label>
+            <input type="email" id="email" placeholder="Enter your email" required />
             <span class="formerror">*Error</span>
         </div>
-        <br><br>
-        <div class="formdesign" id="phone">
-            Phone: <input type="text" id="phone" placeholder="Enter your phone number" required>
+
+        <div class="formdesign" id="phoneDiv">
+            <label>Phone:</label>
+            <input type="text" id="phone" placeholder="Enter your phone number" required />
             <span class="formerror">*Error</span>
         </div>
-        <br><br>
-        <div class="formdesign" id="password">
-            Password: <input type="password" id="password" placeholder="Enter your password" required>
+
+        <div class="formdesign" id="passwordDiv">
+            <label>Password:</label>
+            <input type="password" id="password" placeholder="Enter your password" required />
             <span class="formerror">*Error</span>
         </div>
-        <br><br>
-        <div class="formdesign" id="cpassword">
-            Confirm Password: <input type="password" id="cpassword" placeholder="Confirm your password" required>
+
+        <div class="formdesign" id="cpasswordDiv">
+            <label>Confirm Password:</label>
+            <input type="password" id="cpassword" placeholder="Confirm your password" required />
             <span class="formerror">*Error</span>
         </div>
-        <br><br>
-        <div class="formdesign" id="submit">
-            <input type="submit" value="Submit" id="submitbtn">
+
+        <div class="formdesign">
+            <input type="submit" id="submitbtn" value="Submit" />
         </div>
-        <br><br>
     </form>
+
+    <script>
+        // Function to set error message   
+        function seterror(id, error) {
+            const formError = document.querySelector(`#${id} .formerror`);
+            formError.innerHTML = error;
+            formError.style.display = error ? "block" : "none";
+        }
+        // Function to validate the form
+        function validateForm() {
+            const name = document.getElementById("name").value.trim();
+            const email = document.getElementById("email").value.trim();
+            const phone = document.getElementById("phone").value.trim();
+            const password = document.getElementById("password").value;
+            const cpassword = document.getElementById("cpassword").value;
+
+            let isValid = true;
+
+            if (name.length < 5) {
+                seterror("nameDiv", "Name must be at least 5 characters long");
+                isValid = false;
+            } else {
+                seterror("nameDiv", "");
+            }
+
+            if (email.length < 5 || !email.includes("@")) {
+                seterror("emailDiv", "Please enter a valid email");
+                isValid = false;
+            } else {
+                seterror("emailDiv", "");
+            }
+
+            if (!/^\d{11}$/.test(phone)) {
+                seterror("phoneDiv", "Phone must be 11 digits");
+                isValid = false;
+            } else {
+                seterror("phoneDiv", "");
+            }
+
+            if (password.length < 6) {
+                seterror("passwordDiv", "Password must be at least 6 characters");
+                isValid = false;
+            } else {
+                seterror("passwordDiv", "");
+            }
+
+            if (cpassword !== password) {
+                seterror("cpasswordDiv", "Passwords do not match");
+                isValid = false;
+            } else {
+                seterror("cpasswordDiv", "");
+            }
+
+            return isValid;
+        }
+
+    </script>
+
 </body>
-<script>
-    function seterror(id, error) {
-        const formError = document.querySelector(`#${id} .formerror`);
-        formError.innerHTML = error;
-        formError.style.display = "block";
-    }    
-</script>
+
 </html>
