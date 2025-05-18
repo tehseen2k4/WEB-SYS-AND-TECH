@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validation</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+            color: #333;
+            padding: 50px 10px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .formdesign {
+            width: 300px;
+            margin: 0 auto;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border-radius: 5px;
+            border: 1.5px solid #ccc;
+        }
+
+        .formerror {
+            color: red;
+            font-size: 12px;
+            display: none;
+        }
+
+        #submitbtn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            align: center;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Javascript Form Validation</h1>
+    <form action="">
+        <div class="formdesign" id="name">
+            Name: <input type="text" id="name" placeholder="Enter your name" required>
+            <span class="formerror">*Error</span>
+        </div>
+        <br><br>
+        <div class="formdesign" id="email">
+            Email: <input type="email" id="email" placeholder="Enter your email" required>
+            <span class="formerror">*Error</span>
+        </div>
+        <br><br>
+        <div class="formdesign" id="phone">
+            Phone: <input type="text" id="phone" placeholder="Enter your phone number" required>
+            <span class="formerror">*Error</span>
+        </div>
+        <br><br>
+        <div class="formdesign" id="password">
+            Password: <input type="password" id="password" placeholder="Enter your password" required>
+            <span class="formerror">*Error</span>
+        </div>
+        <br><br>
+        <div class="formdesign" id="cpassword">
+            Confirm Password: <input type="password" id="cpassword" placeholder="Confirm your password" required>
+            <span class="formerror">*Error</span>
+        </div>
+        <br><br>
+        <div class="formdesign" id="submit">
+            <input type="submit" value="Submit" id="submitbtn">
+        </div>
+        <br><br>
+    </form>
+</body>
+<script>
+    function seterror(id, error) {
+        const formError = document.querySelector(`#${id} .formerror`);
+        formError.innerHTML = error;
+        formError.style.display = "block";
+    }    
+</script>
+</html>
